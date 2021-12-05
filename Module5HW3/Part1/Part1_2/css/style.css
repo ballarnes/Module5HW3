@@ -1,0 +1,15 @@
+.text-box {
+    width: 700px;
+    text-align: justify;
+}
+
+#image1 {
+    float: left;
+    margin: 0 20px 10px 0;
+}
+
+#image2 {
+    width: 200px;
+    float: right;
+    margin: 20px 0 20px 20px;
+}
